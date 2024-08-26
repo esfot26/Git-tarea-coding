@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+body{
+    background-color: azure;
+}
+
+#principal {
+    width: 100%;
+    background-color: rgb(22, 182, 155);
+    display: flex;
+    align-items: center; 
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+    padding: 10px; 
+    box-sizing: border-box; 
+}
+
+#secundario {
+    width: 100%;
+    background-color: rgb(22, 51, 182);
+    display: flex;
+    align-items: center; 
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+    padding: 10px; 
+    box-sizing: border-box; 
+}
+
+#terciario {
+    width: 100%;
+    background-color: rgb(182, 22, 22);
+    display: flex;
+    align-items: center; 
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+    padding: 10px; 
+    box-sizing: border-box; 
+}
+img {
+    display: block;
+    width: 150px; 
+    height: auto; 
+    border: 5px solid black; 
+    margin-bottom: 10px; 
+}
+
+
